@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e567c337-8a1a-4a07-b37c-98a4a2ea3934" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="D:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/20220209/readcode-etcd-v3.4.10" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="21x4vX1rMZHgIfDOGAmvyNsWHsC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../project/mygo/src/bottle-product/bottle-product-index" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\myproject\go\everyDay\20220418" />
+      <recent name="D:\myproject\go\everyDay\talk\model" />
+      <recent name="D:\myproject\go\everyDay\talk" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build everyDay/20220516 (1)">
+    <configuration name="go build everyDay/20220428" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="everyDay" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/20220428/filedownload.go" />
+      <package value="everyDay/20220428" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build everyDay/20220516 (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="everyDay" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/20220516/计算某字符出现次数.go" />
+      <package value="everyDay/20220516" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build everyDay/20220516" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="everyDay" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/20220516/蛇形矩阵.go" />
+      <package value="everyDay/20220516" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test in everyDay/2022-04-27" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="everyDay" />
+      <working_directory value="$PROJECT_DIR$/2022-04-27" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="everyDay/2022-04-27" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTest\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_snakeSquare in everyDay/20220516" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="everyDay" />
+      <working_directory value="$PROJECT_DIR$/20220516" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="everyDay/20220516" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTest_snakeSquare\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build everyDay/20220516 (1)" />
+        <item itemvalue="Go Build.go build everyDay/20220516" />
+        <item itemvalue="Go Test.Test_snakeSquare in everyDay/20220516" />
+        <item itemvalue="Go Build.go build everyDay/20220428" />
+        <item itemvalue="Go Test.Test in everyDay/2022-04-27" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="715" y="222" key="#xdebugger.evaluate" timestamp="1646733834099">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="222" key="#xdebugger.evaluate/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1646733834099" />
+    <state x="748" y="275" key="FileChooserDialogImpl" timestamp="1652667786304">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="748" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1652667786304" />
+    <state x="2668" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1648645351231" />
+    <state width="1356" height="262" key="GridCell.Tab.0.bottom" timestamp="1652676154483">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1356" height="262" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1652676154483" />
+    <state width="937" height="387" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1648887440196" />
+    <state width="1356" height="262" key="GridCell.Tab.0.center" timestamp="1652676154483">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1356" height="262" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1652676154483" />
+    <state width="937" height="387" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1648887440196" />
+    <state width="1356" height="262" key="GridCell.Tab.0.left" timestamp="1652676154483">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1356" height="262" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1652676154483" />
+    <state width="937" height="387" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1648887440196" />
+    <state width="1356" height="262" key="GridCell.Tab.0.right" timestamp="1652676154483">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1356" height="262" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1652676154483" />
+    <state width="937" height="387" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1648887440196" />
+    <state width="1356" height="262" key="GridCell.Tab.1.bottom" timestamp="1652676154397">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1356" height="262" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1652676154397" />
+    <state width="937" height="387" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1648887440122" />
+    <state width="1356" height="262" key="GridCell.Tab.1.center" timestamp="1652676154397">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1356" height="262" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1652676154397" />
+    <state width="937" height="387" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1648887440122" />
+    <state width="1356" height="262" key="GridCell.Tab.1.left" timestamp="1652676154397">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1356" height="262" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1652676154397" />
+    <state width="937" height="387" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1648887440122" />
+    <state width="1356" height="262" key="GridCell.Tab.1.right" timestamp="1652676154397">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1356" height="262" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1652676154397" />
+    <state width="937" height="387" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1648887440122" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1649303479931">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1649303479931" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1650353701415">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1650353701415" />
+    <state x="563" y="131" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1648002990583">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="563" y="131" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1648002990583" />
+    <state x="498" y="249" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1649234016554">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="498" y="249" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1649234016554" />
+    <state x="2582" y="223" width="628" height="594" key="find.popup" timestamp="1648612099201">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="662" y="223" width="628" height="594" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1646361653312" />
+    <state x="2582" y="223" width="628" height="594" key="find.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1648612099201" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1652672587319">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1652672587319" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/20211210/0～n-1中缺失的数字_test.go</url>
+          <line>29</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/20220110/累加数_test.go</url>
+          <line>80</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/20220113/整数反转_test.go</url>
+          <line>31</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/20220113/分隔链表_test.go</url>
+          <line>40</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/20220113/分隔链表_test.go</url>
+          <line>31</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/20220210/etcd_test.go</url>
+          <line>36</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/20220214/有序数组中的单一元素_test.go</url>
+          <line>32</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/20220304/子数组范围和_test.go</url>
+          <line>23</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/20220307/七进制数_test.go</url>
+          <line>38</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/20220307/proxy_test.go</url>
+          <line>46</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/20220322/分割等和子集_test.go</url>
+          <line>103</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/20220322/分割等和子集_test.go</url>
+          <line>36</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/20220322/分割等和子集_test.go</url>
+          <line>69</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/20220329/重建二叉树_test.go</url>
+          <line>38</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/20220329/重建二叉树_test.go</url>
+          <line>25</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/20220331/实现 strStr()_test.go</url>
+          <line>35</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/20220331/main_test.go</url>
+          <line>17</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/../../../project/mygo/pkg/mod/github.com/gorilla/websocket@v1.5.0/server.go</url>
+          <line>89</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/talk/util/safe.go</url>
+          <line>15</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/talk/component/room.go</url>
+          <line>18</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/20220418/proxy.go</url>
+          <line>88</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/20220418/proxy.go</url>
+          <line>23</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/../../../Go/src/net/http/client.go</url>
+          <line>175</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/../../../Go/src/net/http/client.go</url>
+          <line>216</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="GoApplicationRunConfiguration">
+        <watch expression="s" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
