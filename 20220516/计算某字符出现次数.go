@@ -14,19 +14,19 @@ import (
  * @Date: 2022/05/16 11:36
  */
 
-func CountChar(msg string ,find string) (count int) {
+func CountChar(msg string, find string) (count int) {
 	msg = strings.ToLower(msg)
 	find = strings.ToLower(find)
 	length := len(find)
-	for i := 0 ;i < len(msg); {
+	for i := 0; i < len(msg); {
 		if i+length > len(msg) {
 			return
 		}
-		if find == msg[i:i + length] {
+		if find == msg[i:i+length] {
 			count++
-			i = i +length
-		}else {
-			i ++
+			i = i + length
+		} else {
+			i++
 		}
 	}
 	return
@@ -34,15 +34,13 @@ func CountChar(msg string ,find string) (count int) {
 
 func main() {
 	reader := bufio.NewReader(os.Stdin)
-	questionLine,err := reader.ReadString('\n')
+	questionLine, err := reader.ReadString('\n')
 	if err != nil {
 		panic(err)
 	}
-	answerLine,err := reader.ReadString('\n')
+	answerLine, err := reader.ReadString('\n')
 	if err != nil {
 		panic(err)
 	}
-
-	fmt.Println(CountChar(strings.TrimSpace(questionLine),strings.TrimSpace(answerLine)))
-
+	fmt.Println(CountChar(strings.TrimSpace(questionLine), strings.TrimSpace(answerLine)))
 }

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e567c337-8a1a-4a07-b37c-98a4a2ea3934" name="Default Changelist" comment="" />
+    <list default="true" id="e567c337-8a1a-4a07-b37c-98a4a2ea3934" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/20220516/字符串排序_研究.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20220516/简单密码.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20220516/表达式求值.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20220516/计算某字符出现次数.go" beforeDir="false" afterPath="$PROJECT_DIR$/20220516/计算某字符出现次数.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +23,7 @@
   </component>
   <component name="GOROOT" path="D:\Go" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/20220209/readcode-etcd-v3.4.10" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
@@ -45,13 +52,31 @@
       <recent name="D:\myproject\go\everyDay\talk" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build everyDay/20220516 (1)">
-    <configuration name="go build everyDay/20220428" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build 表达式求值.go">
+    <configuration name="go build 字符串排序.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="everyDay" />
       <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/20220428/filedownload.go" />
-      <package value="everyDay/20220428" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/20220516/字符串排序.go" />
+      <package value="everyDay" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 简单密码.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="everyDay" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/20220516/简单密码.go" />
+      <package value="everyDay" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 表达式求值.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="everyDay" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/20220516/表达式求值.go" />
+      <package value="everyDay" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -73,35 +98,13 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="Test in everyDay/2022-04-27" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="everyDay" />
-      <working_directory value="$PROJECT_DIR$/2022-04-27" />
-      <framework value="gotest" />
-      <kind value="PACKAGE" />
-      <package value="everyDay/2022-04-27" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <pattern value="^\QTest\E$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Test_snakeSquare in everyDay/20220516" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="everyDay" />
-      <working_directory value="$PROJECT_DIR$/20220516" />
-      <framework value="gotest" />
-      <kind value="PACKAGE" />
-      <package value="everyDay/20220516" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <pattern value="^\QTest_snakeSquare\E$" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build 表达式求值.go" />
+        <item itemvalue="Go Build.go build 简单密码.go" />
+        <item itemvalue="Go Build.go build 字符串排序.go" />
         <item itemvalue="Go Build.go build everyDay/20220516 (1)" />
         <item itemvalue="Go Build.go build everyDay/20220516" />
-        <item itemvalue="Go Test.Test_snakeSquare in everyDay/20220516" />
-        <item itemvalue="Go Build.go build everyDay/20220428" />
-        <item itemvalue="Go Test.Test in everyDay/2022-04-27" />
       </list>
     </recent_temporary>
   </component>
@@ -122,54 +125,54 @@
     </state>
     <state x="748" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1652667786304" />
     <state x="2668" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1648645351231" />
-    <state width="1356" height="262" key="GridCell.Tab.0.bottom" timestamp="1652676154483">
+    <state width="1354" height="262" key="GridCell.Tab.0.bottom" timestamp="1652694641193">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1356" height="262" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1652676154483" />
+    <state width="1354" height="262" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1652694641193" />
     <state width="937" height="387" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1648887440196" />
-    <state width="1356" height="262" key="GridCell.Tab.0.center" timestamp="1652676154483">
+    <state width="1354" height="262" key="GridCell.Tab.0.center" timestamp="1652694641193">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1356" height="262" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1652676154483" />
+    <state width="1354" height="262" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1652694641193" />
     <state width="937" height="387" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1648887440196" />
-    <state width="1356" height="262" key="GridCell.Tab.0.left" timestamp="1652676154483">
+    <state width="1354" height="262" key="GridCell.Tab.0.left" timestamp="1652694641192">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1356" height="262" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1652676154483" />
+    <state width="1354" height="262" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1652694641192" />
     <state width="937" height="387" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1648887440196" />
-    <state width="1356" height="262" key="GridCell.Tab.0.right" timestamp="1652676154483">
+    <state width="1354" height="262" key="GridCell.Tab.0.right" timestamp="1652694641193">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1356" height="262" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1652676154483" />
+    <state width="1354" height="262" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1652694641193" />
     <state width="937" height="387" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1648887440196" />
-    <state width="1356" height="262" key="GridCell.Tab.1.bottom" timestamp="1652676154397">
+    <state width="1354" height="262" key="GridCell.Tab.1.bottom" timestamp="1652694641106">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1356" height="262" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1652676154397" />
+    <state width="1354" height="262" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1652694641106" />
     <state width="937" height="387" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1648887440122" />
-    <state width="1356" height="262" key="GridCell.Tab.1.center" timestamp="1652676154397">
+    <state width="1354" height="262" key="GridCell.Tab.1.center" timestamp="1652694641105">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1356" height="262" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1652676154397" />
+    <state width="1354" height="262" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1652694641105" />
     <state width="937" height="387" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1648887440122" />
-    <state width="1356" height="262" key="GridCell.Tab.1.left" timestamp="1652676154397">
+    <state width="1354" height="262" key="GridCell.Tab.1.left" timestamp="1652694641105">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1356" height="262" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1652676154397" />
+    <state width="1354" height="262" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1652694641105" />
     <state width="937" height="387" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1648887440122" />
-    <state width="1356" height="262" key="GridCell.Tab.1.right" timestamp="1652676154397">
+    <state width="1354" height="262" key="GridCell.Tab.1.right" timestamp="1652694641106">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1356" height="262" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1652676154397" />
+    <state width="1354" height="262" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1652694641106" />
     <state width="937" height="387" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1648887440122" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1649303479931">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1649303479931" />
-    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1650353701415">
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1652693487453">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1650353701415" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1652693487453" />
     <state x="563" y="131" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1648002990583">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -311,10 +314,16 @@
           <line>216</line>
           <option name="timeStamp" value="90" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/20220516/简单密码.go</url>
+          <line>53</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="GoApplicationRunConfiguration">
+        <watch expression="s" />
         <watch expression="s" />
       </configuration>
     </watches-manager>
